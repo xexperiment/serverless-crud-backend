@@ -38,8 +38,8 @@ This project showcases a CRUD API built with the Serverless Framework, using:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dcodevalley/serverless-aws-crud-api.git
-   cd crud-api
+   git clone https://github.com/xexperiment/serverless-crud-backend.git
+   cd serverless-crud-backend
    ```
 2. Install dependencies:
    ```bash
